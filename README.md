@@ -7,7 +7,7 @@
     <a href="https://scholar.google.com/citations?user=TyH59tkAAAAJ&hl=en">Nurul Japar</a>
   </strong>
   <br/><br/>
-  <a href="">
+  <a href="https://www.sciencedirect.com/science/article/pii/S026288562500191X">
     <img src="https://img.shields.io/badge/Read%20Paper-Elsevier-brightgreen?style=for-the-badge" alt="Read Paper Badge">
   </a>
 </p>
@@ -33,10 +33,16 @@ If you find this work useful, please consider citing our paper and giving this r
 
 ```bibtex
 @article{izhar2025pkatransnet,
-  title={Enhancing radiology report generation: A prior knowledge-aware transformer network for effective alignment and fusion of multi-modal radiological data},
-  author={Izhar, Amaan and Idris, Norisma and Japar, Nurul},
-  journal={Image and Vision Computing},
-  year={2025}
+title={Enhancing radiology report generation: A prior knowledge-aware transformer network for effective alignment and fusion of multi-modal radiological data},
+journal={Image and Vision Computing},
+volume={161},
+pages={105603},
+year={2025},
+issn={0262-8856},
+doi={https://doi.org/10.1016/j.imavis.2025.105603},
+url={https://www.sciencedirect.com/science/article/pii/S026288562500191X},
+author={Izhar, Amaan and Idris, Norisma and Japar, Nurul},
+keywords={Radiology report generation, Deep learning, Transformer, Contextual biomedical entity, Auxiliary medical knowledge, Multi-modal fusion},
 }
 ```
 
